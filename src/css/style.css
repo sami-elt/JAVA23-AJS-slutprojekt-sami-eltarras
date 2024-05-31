@@ -1,0 +1,22 @@
+.box{
+
+    border: 5px solid black;
+
+    text-align: center;
+
+    display: inline-block;
+
+    margin: 10px;
+
+    padding: 5px;
+    
+}
+
+.form{
+
+
+    text-align: center;
+
+    margin: 10px;
+
+}
